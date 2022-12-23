@@ -17,6 +17,13 @@
     "next": "13.0.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "typescript": "4.9.4"
+    "react-hook-videojs": "^3.0.2",
+    "swiper": "^8.4.5",
+    "typescript": "4.9.4",
+    "video.js": "7.20.3",
+    "videojs-landscape-fullscreen": "^11.1111.0"
+  },
+  "devDependencies": {
+    "@types/video.js": "^7.3.50"
   }
 }
